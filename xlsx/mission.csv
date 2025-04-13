@@ -1,0 +1,8 @@
+Sequence Number,Subproject Name,Road,Start Station,End Station,Implementation Mileage (km),Technical Level,Pavement Width (m),Current Pavement Type,Segment Condition
+1,G206 Wei-Shan Highway Jinxian County Pavement Preventive Maintenance Project,,,,,,,,
+,,G206,1737.144144,1744.715169,7.57102491,Secondary,11.5,Asphalt,Right side: mild rutting
+,,G206,1715.275775,1721.302671,6.026895686,Secondary,11.5,Asphalt,"Left side: moderate rutting, mild transverse cracks (18 total)"
+,,G206,1736.270256,1745.860308,9.590052376,Secondary,11.5,Asphalt,"Right side: moderate rutting, moderate transverse cracks (13 total)"
+,,G206,1715.977082,1720.135768,4.158686462,Secondary,11.5,Asphalt,Right side: moderate rutting
+,,G206,,,,,,,Left side: moderate transverse cracks (30m)
+,,G206,1731.447665,1736.02342,4.575754796,Secondary,11.5,Asphalt,"Groundwater in the base layer causes moderate potholes, difficult to repair"
